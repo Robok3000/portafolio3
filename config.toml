@@ -1,4 +1,4 @@
-baseURL = 'https://robok3000.github.io/portafolio3/'
+baseURL = 'portafolio3/'
 defaultContentLanguage = 'en'
 # Emoji in markdown files
 enableEmoji = true
