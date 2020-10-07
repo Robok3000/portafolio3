@@ -111,9 +111,3 @@ contentDir = 'content/fr'
 languageCode = 'fr'
 languageName = 'Français'
 weight = 2
-
-[languages.es]
-contentDir = 'content/es'
-languageCode = 'es'
-languageName = 'Español'
-weight = 1
